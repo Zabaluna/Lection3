@@ -32,3 +32,27 @@ Console.WriteLine();
 
 newText = Replace(text, 'к','К');
 Console.WriteLine(newText);
+
+// void GetSumNums(int number)
+// {
+//     int sum = 0;
+
+//     for (int i = 1; i <= Math.Abs(number); i++) ;
+//     {
+//         sum += i;
+//     }
+//     Console.WriteLine($"сумма цифр от 1 до числа: {sum}");
+// }
+// Console.Clear();
+// GetSumNums(16);
+
+// void ToDegree(int a, int b)
+// {
+//     int result = 1;
+//     for (int i = 1; i <= b; i++)
+//     {
+//         result = result * a;
+//     }
+//     Console.WriteLine(result);
+// }
+
